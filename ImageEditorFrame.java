@@ -6,6 +6,7 @@ import java.io.*;
 import javax.imageio.*;
 public class ImageEditorFrame extends JFrame{
 	public static void main(String[] args){
+		ImageEditorFrame frame = new ImageEditorFrame();
 	}
 	
 	public ImageEditorFrame(){
