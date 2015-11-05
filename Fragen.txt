@@ -1,0 +1,29 @@
+Fragen
+
+1. Welchen Inhalt hat die Datei .gitignore für Java-Projekte?
+		*.class Dateien und bestimmte Packages (zB .jar)
+
+2. Welcher Befehl erstellt eine lokale Kopie eines Remote-Repository?
+		git clone https://...
+		
+3. Welcher Befehl übernimmt Änderungen aus github-Repository ins lokale Repository?
+		git pull
+
+4. Welche Befehlsfolge ist notwendig, um einen lokalen Stand zu veröffentlichen, wenn sich das
+github-Repository verändert hat.
+		(git commit)
+		git pull
+		git push
+
+5. Wie werden lokale Branches ins github-Repository übertragen?
+		
+		
+6. Wie werden lokale Tags ins github-Repository übertragen?
+		
+
+7. Nach einem git pull Aufruf werden Konflikte angezeigt. Wie können Sie sich anzeigen lassen,
+welche Dateien betroffen sind?
+		git status
+		
+8. Kann git ohne github verwendet werden?
+		ja!
